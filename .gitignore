@@ -1,0 +1,85 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Bytecode
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# ----------------------------
+# Environment Variables
+# ----------------------------
+.env
+.env.*
+*.env
+
+# ----------------------------
+# FastAPI / Uvicorn
+# ----------------------------
+*.log
+*.pid
+
+# ----------------------------
+# Database Files
+# ----------------------------
+# SQLite (if used)
+*.db
+*.sqlite
+*.sqlite3
+
+# MySQL dump files
+*.sql
+*.bak
+
+# Alembic / Migrations cache
+alembic.ini
+alembic/
+migrations/
+
+# ----------------------------
+# OS Files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Editor / IDE files
+# ----------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ----------------------------
+# Python Packaging
+# ----------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ----------------------------
+# Cache / Temporary files
+# ----------------------------
+*.tmp
+*.temp
+*.cache
+.cache/
+pytest_cache/
+coverage/
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
+logs/
