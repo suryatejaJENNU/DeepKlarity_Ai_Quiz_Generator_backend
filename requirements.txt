@@ -10,7 +10,7 @@ aiohttp
 
 langchain==0.1.20
 langchain-core==0.1.52
-langchain-google-genai==0.1.6
+langchain-google-genai==0.0.11
 google-generativeai==0.5.2
 
 pydantic==2.6.4
