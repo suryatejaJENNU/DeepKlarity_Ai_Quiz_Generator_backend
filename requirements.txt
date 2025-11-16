@@ -5,9 +5,9 @@ pymysql
 requests
 beautifulsoup4
 python-dotenv
+aiohttp
 langchain==0.2.6
 langchain-core==0.2.11
 langchain-google-genai==1.0.4
 google-generativeai==0.7.2
-pydantic==2.6.4
-aiohttp
+pydantic>=2.7.4
